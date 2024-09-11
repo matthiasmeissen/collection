@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/)
 - [Si Trays](https://betuel.co/si-trays)
 - [1x1 Systems](https://1x1.systems/)
 - [Departure Mono](https://departuremono.com/)
