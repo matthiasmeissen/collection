@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Design Engineering 101](https://www.designdisciplin.com/p/design-engineering-101)
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
 - [Si Trays](https://betuel.co/si-trays)
 - [1x1 Systems](https://1x1.systems/)
