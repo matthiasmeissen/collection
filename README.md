@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Build an 8 bit computer](https://eater.net/8bit)
 - [Plain Vanilla](https://plainvanillaweb.com/)
 - [Design Engineering 101](https://www.designdisciplin.com/p/design-engineering-101)
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/)
