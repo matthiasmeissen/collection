@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [HTML for People](https://htmlforpeople.com/)
 - [Minitap - Web Sequencer](https://minitap.io/)
 - [Build an 8 bit computer](https://eater.net/8bit)
 - [Plain Vanilla](https://plainvanillaweb.com/)
