@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Atypography](https://www.atypography.com)
 - [Fab Academy](https://fabacademy.org)
 - [Colors and Fonts](https://www.colorsandfonts.com)
 - [Note to New Design Managers](https://hvpandya.com/design-managers)
