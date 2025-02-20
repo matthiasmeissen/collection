@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Principles of Web Accessibility](https://github.com/Heydon/principles-of-web-accessibility)
 - [Shapelab](https://shapelabvr.com/)
 - [All about Textiles](https://akaspar.pages.cba.mit.edu/textiles-recitation/)
 - [Deceptive Patterns](https://www.deceptive.design/)
