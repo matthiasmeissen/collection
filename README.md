@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Patternmaking Classes](https://www.patternmaking-classes.com)
 - [DIYR](https://diyr.dev)
 - [Principles of Web Accessibility](https://github.com/Heydon/principles-of-web-accessibility)
 - [Shapelab](https://shapelabvr.com/)
