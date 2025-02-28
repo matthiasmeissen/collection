@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [DIYR](https://diyr.dev)
 - [Principles of Web Accessibility](https://github.com/Heydon/principles-of-web-accessibility)
 - [Shapelab](https://shapelabvr.com/)
 - [All about Textiles](https://akaspar.pages.cba.mit.edu/textiles-recitation/)
