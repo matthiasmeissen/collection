@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [HG SDF](https://mercury.sexy/hg_sdf/)
 - [Refactoring Guru](https://refactoring.guru/)
 - [Programming Design Systems](https://programmingdesignsystems.com/)
 - [Patternmaking Classes](https://www.patternmaking-classes.com)
