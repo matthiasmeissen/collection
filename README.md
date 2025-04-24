@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Indie Web](https://indieweb.org/)
 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator)
 - [Demotool Screenshots](https://peisik.untergrund.net/engines/)
