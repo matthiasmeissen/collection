@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Spritefusion](https://www.spritefusion.com/)
 - [Internet in a box](https://internet-in-a-box.org/)
 - [Indie Web](https://indieweb.org/)
 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
