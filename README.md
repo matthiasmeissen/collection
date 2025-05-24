@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Python Guis](https://www.pythonguis.com)
 - [Font Forge](https://fontforge.org/en-US/)
 - [Quantum Programming Studio](https://quantum-circuit.com)
 - [Zen Livecode](https://zen.cephasteom.co.uk)
