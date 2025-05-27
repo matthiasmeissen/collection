@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Google Labs](https://labs.google/)
 - [Python Guis](https://www.pythonguis.com)
 - [Font Forge](https://fontforge.org/en-US/)
