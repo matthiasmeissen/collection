@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Learn X in Y Minutes](https://learnxinyminutes.com)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Google Labs](https://labs.google/)
 - [Python Guis](https://www.pythonguis.com)
