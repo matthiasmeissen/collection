@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Google Labs](https://labs.google/)
 - [Python Guis](https://www.pythonguis.com)
 - [Font Forge](https://fontforge.org/en-US/)
 - [Quantum Programming Studio](https://quantum-circuit.com)
