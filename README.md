@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Amaranth Hardware Description Language](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Google Labs](https://labs.google/)
