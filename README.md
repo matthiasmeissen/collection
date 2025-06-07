@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
 - [Amaranth Hardware Description Language](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
