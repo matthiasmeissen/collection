@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Design Beyond Barriers](https://designbeyondbarriers.com/)
 - [Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
 - [Amaranth Hardware Description Language](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
