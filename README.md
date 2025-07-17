@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Refraction, dispersion and other shader light effects](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
 - [Design Beyond Barriers](https://designbeyondbarriers.com/)
 - [Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
 - [Amaranth Hardware Description Language](https://amaranth-lang.org/docs/amaranth/latest/intro.html)
