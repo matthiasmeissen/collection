@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Should Designers Train Models](https://carly.substack.com/p/should-designers-train-models)
 - [Refraction, dispersion and other shader light effects](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
 - [Design Beyond Barriers](https://designbeyondbarriers.com/)
 - [Distance Estimator Compendium](https://jbaker.graphics/writings/DEC.html)
