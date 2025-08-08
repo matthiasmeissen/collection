@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 - [Data Viz Project](https://datavizproject.com/)
 - [Should Designers Train Models](https://carly.substack.com/p/should-designers-train-models)
 - [Refraction, dispersion and other shader light effects](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
