@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- (Open Router)[https://openrouter.ai]
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 - [Data Viz Project](https://datavizproject.com/)
 - [Should Designers Train Models](https://carly.substack.com/p/should-designers-train-models)
