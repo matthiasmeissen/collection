@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Composers Desktop Project](https://www.composersdesktop.com)
 - [Open Router](https://openrouter.ai)
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 - [Data Viz Project](https://datavizproject.com/)
