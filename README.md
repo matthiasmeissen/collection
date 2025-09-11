@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [GeoGebra](https://www.geogebra.org/3d)
 - [Redaction Typeface](https://www.redaction.us)
 - [Composers Desktop Project](https://www.composersdesktop.com)
 - [Open Router](https://openrouter.ai)
