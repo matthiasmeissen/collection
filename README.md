@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [The Electronic Connector Book](https://connectorbook.com)
 - [Roons](https://whomtech.com/roons/)
 - [N O D E](https://n-o-d-e.net/index.html)
 - [Database Diagram Tool](https://dbdiagram.io/)
