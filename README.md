@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [PhET Interactive Simulations](https://phet.colorado.edu)
 - [Common Wire to Board Connections](https://www.mattmillman.com/info/crimpconnectors/)
 - [The Electronic Connector Book](https://connectorbook.com)
 - [Roons](https://whomtech.com/roons/)
