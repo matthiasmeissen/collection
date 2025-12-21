@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [How to Learn Embedded Rust for Beginners](https://blog.implrust.com/posts/2025/12/how-to-learn-embedded-rust/)
 - [PhET Interactive Simulations](https://phet.colorado.edu)
 - [Common Wire to Board Connections](https://www.mattmillman.com/info/crimpconnectors/)
 - [The Electronic Connector Book](https://connectorbook.com)
