@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone/)
 - [nand2tetris](https://www.nand2tetris.org)
 - [How to Learn Embedded Rust for Beginners](https://blog.implrust.com/posts/2025/12/how-to-learn-embedded-rust/)
 - [PhET Interactive Simulations](https://phet.colorado.edu)
