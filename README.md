@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Building an infinite grid](https://okaydev.co/articles/building-an-infinite-grid)
 - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone/)
 - [nand2tetris](https://www.nand2tetris.org)
 - [How to Learn Embedded Rust for Beginners](https://blog.implrust.com/posts/2025/12/how-to-learn-embedded-rust/)
