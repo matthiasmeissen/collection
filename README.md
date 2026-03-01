@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [Paleofuture](https://paleofuture.com)
 - [Building an infinite grid](https://okaydev.co/articles/building-an-infinite-grid)
 - [Shades of Halftone](https://blog.maximeheckel.com/posts/shades-of-halftone/)
