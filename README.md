@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [The Agent Skills Directory](https://skills.sh/)
 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 - [Paleofuture](https://paleofuture.com)
 - [Building an infinite grid](https://okaydev.co/articles/building-an-infinite-grid)
