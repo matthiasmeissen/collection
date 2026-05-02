@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [WLED Project](https://kno.wled.ge)
 - [Coollab](https://coollab-art.com)
 - [Lulu](https://www.lulu.com/)
 - [FragCoord](https://fragcoord.xyz)
