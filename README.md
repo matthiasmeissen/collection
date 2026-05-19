@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Dogbotic](https://dogbotic.com)
 - [Ramonas Workshop](https://ramona.diy)
 - [Cognitive Bias Index](https://cognitivebiasindex.com/)
 - [WLED Project](https://kno.wled.ge)
