@@ -2,7 +2,7 @@
 
 A collection of things from the internet.
 
-
+- [Cognitive Bias Index](https://cognitivebiasindex.com/)
 - [WLED Project](https://kno.wled.ge)
 - [Coollab](https://coollab-art.com)
 - [Lulu](https://www.lulu.com/)
