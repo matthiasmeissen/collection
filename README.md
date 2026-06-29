@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Area Technology](https://www.area.tech/)
 - [Dogbotic](https://dogbotic.com)
 - [Ramonas Workshop](https://ramona.diy)
 - [Cognitive Bias Index](https://cognitivebiasindex.com/)
