@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Bike Insights](https://bikeinsights.com/)
 - [Product Design Psychology](https://productdesignpsychology.com/)
 - [Area Technology](https://www.area.tech/)
 - [Dogbotic](https://dogbotic.com)
