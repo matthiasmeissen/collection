@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Rust Engineering](https://learn.flowresearch.tech/curriculum/rust-engineering)
 - [Logobook](https://logobook.com/)
 - [Bike Insights](https://bikeinsights.com/)
 - [Product Design Psychology](https://productdesignpsychology.com/)
