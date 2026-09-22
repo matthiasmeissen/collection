@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Category Colors](https://categorycolors.com/)
 - [SculptGL](https://stephaneginier.com/sculptgl/)
 - [MYOG Tutorials](https://www.myogtutorials.com)
 - [Colorwork Studio](https://colorwork.studio/)
