@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Absenteism](https://www.absenteism.com/)
 - [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
 - [Modern Web Guidance](https://developer.chrome.com/docs/modern-web-guidance)
 - [Category Colors](https://categorycolors.com/)
