@@ -3,6 +3,7 @@
 A collection of things from the internet.
 
 
+- [Slightly better interpolating splines](https://gasiulis.name/new-spline/)
 - [Absenteism](https://www.absenteism.com/)
 - [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
 - [Modern Web Guidance](https://developer.chrome.com/docs/modern-web-guidance)
