@@ -2,6 +2,7 @@
 
 A collection of things from the internet.
 
+- [What I have learned by writing for billions of users](https://nickdilallo.com/writing/what-ive-learned-writing-for-billions-of-users/)
 - [The Triangle of Everything](https://blog.vandesande.design/the-triangle-of-everything)
 - [Slightly better interpolating splines](https://gasiulis.name/new-spline/)
 - [Absenteism](https://www.absenteism.com/)
