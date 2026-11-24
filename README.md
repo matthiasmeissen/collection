@@ -2,7 +2,7 @@
 
 A collection of things from the internet.
 
-
+- [The Triangle of Everything](https://blog.vandesande.design/the-triangle-of-everything)
 - [Slightly better interpolating splines](https://gasiulis.name/new-spline/)
 - [Absenteism](https://www.absenteism.com/)
 - [Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)
